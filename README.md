@@ -6,7 +6,8 @@ Interactive dashboard built with Python, Dash, Pandas and Plotly.
 
 ## Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+<img width="953" height="455" alt="dashboard" src="https://github.com/user-attachments/assets/2cdd6ebe-e391-4b5c-bb09-060403410689" />
+
 
 ## Features
 
