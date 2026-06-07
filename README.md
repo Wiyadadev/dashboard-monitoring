@@ -1,11 +1,19 @@
 # Dashboard Monitoring
 
+## Overview
+
+Interactive dashboard built with Python, Dash, Pandas and Plotly.
+
+## Screenshot
+
+![Dashboard](screenshots/dashboard.png)
+
 ## Features
 
+- Interactive Dropdown Filter
+- Sales Visualization
 - KPI Cards
-- Interactive Charts
-- Excel Data Source
-- Data Table
+- Responsive Layout
 
 ## Tech Stack
 
@@ -13,7 +21,3 @@
 - Dash
 - Pandas
 - Plotly
-
-## Screenshot
-
-(ใส่รูป Dashboard)
